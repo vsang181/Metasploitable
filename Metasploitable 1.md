@@ -109,12 +109,6 @@ The scan resulted in showing multple ports open 21, 22 ,23, 25, 53, 80, 139, 445
 
 ### Exploring Port 80 
 
-As shown in the results the port 80 is running FTP service with service version as "ProFTPD 1.3.1".
-
-A quick google search reveals a sql injection vulnerability.
-
-[ProFTPd 1.3 - 'mod_sql' 'Username' SQL Injection](https://www.exploit-db.com/exploits/32798)
-
 
 
 
