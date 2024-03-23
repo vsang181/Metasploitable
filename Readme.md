@@ -18,9 +18,8 @@ I'm Vaibhav Sangwan, a passionate cybersecurity enthusiast with a keen interest 
 
 ## Let's Connect
 
-I welcome feedback, suggestions, and opportunities for collaboration. Feel free to reach out, and let's join forces to enhance our cybersecurity knowledge and capabilities.
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
 
-- **LinkedIn**: [https://www.linkedin.com/in/aashwadhaama/](https://www.linkedin.com/in/aashwadhaama/)
-- **Email**: vsang181@gmail.com
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
 
-Embark on this cybersecurity journey with me. Together, we can navigate the complexities of digital security and make a significant impact, one vulnerability at a time. Happy hacking!
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
