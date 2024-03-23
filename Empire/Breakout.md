@@ -251,4 +251,12 @@ And with that, we gain a root shell.
 
 This successful maneuver grants us access to the root flag.
 
+## Let's Connect
+
+I welcome your insights, feedback, and opportunities for collaboration. Together, we can make the digital world safer, one challenge at a time.
+
+- **LinkedIn**: (https://www.linkedin.com/in/aashwadhaama/)
+
+I look forward to connecting with fellow cybersecurity enthusiasts and professionals to share knowledge and work together towards a more secure digital environment.
+
 ![image](https://github.com/vsang181/VulnHub/assets/28651683/1bce0c6e-ce1d-4013-bb07-0df694b0e97f)
